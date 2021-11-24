@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/target/classes/
+/target/generated-sources/
+/target/test-classes/
